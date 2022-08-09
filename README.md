@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirachna
 - 👀 I’m interested in Apache Superset
 - 🌱 I’m currently learning Apache Superset
-- 💞️ I’m looking to collaborate on finding the meaning og each persmissions and make the document for everones use
+- 💞️ I’m looking to collaborate on finding the meaning of each persmissions and make the document for every ones use
 - 📫 How to reach me , rachnakhurana2000@gmail.com
 
 <!---
